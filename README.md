@@ -5,12 +5,13 @@ I'm FrontEnd developer From Saint Petersburg
 **About me:**
 - 🔭 I’m currently working on something interesting
 - 🌱 I’m currently learning ReactJS
-- 💬 Ask me about aniything you whant, I'm always ready to answer your questions
+- 💬 Ask me about aniything you whant, <br>
+  I'm always ready to answer your questions
 - 📫 How to reach me:
-- Telegram: [@BogdanB](https://t.me/Bogdan_Bakhteev)
-- Gmail: bakhteevb@gmail.com
-- [Resume](https://career.habr.com/bbakhteev)
-- ⚡ Fun fact: Grappler immersed in programming
+- 📥 Telegram: [@BogdanB](https://t.me/Bogdan_Bakhteev)
+- ✉️ Gmail: bakhteevb@gmail.com
+- 📄 [Resume](https://career.habr.com/bbakhteev)
+- ⚡ Fun fact: Grappler immersed in programming 💪
 
 **Languages and Tools:**  
 
