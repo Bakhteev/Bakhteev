@@ -2,6 +2,10 @@
 
 I'm FrontEnd developer From Saint Petersburg
 
+<img align="right" alt="GIF" src="https://cs8.pikabu.ru/post_img/2016/04/09/9/1460216158134289433.gif"  height="420" />
+
+<br>
+
 **About me:**
 - 🔭 I’m currently working on something interesting
 - 🌱 I’m currently learning ReactJS
@@ -23,5 +27,6 @@ I'm FrontEnd developer From Saint Petersburg
 
 📈 **My GitHub Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhteev&layout=compact&hide_border=true&theme=radical)](https://github.com/Maksim1108) [<img src="https://github-readme-stats.vercel.app/api?username=Bakhteev&show_icons=true&hide_border=true&theme=radical">](https://github.com/Bakhteev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhteev&hide_border=true&theme=radical)](https://github.com/Bakhteev)
+[<img src="https://github-readme-stats.vercel.app/api?username=Bakhteev&show_icons=true&hide_border=true&theme=radical">](https://github.com/Bakhteev)
 
