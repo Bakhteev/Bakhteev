@@ -27,6 +27,7 @@ I'm FrontEnd developer From Saint Petersburg
 
 📈 **My GitHub Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhteev&hide_border=true&theme=radical&disable_animations=false&layout=compact)](https://github.com/Bakhteev)
 [<img src="https://github-readme-stats.vercel.app/api?username=Bakhteev&show_icons=true&hide_border=true&theme=radical&disable_animations=false">](https://github.com/Bakhteev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhteev&hide_border=true&theme=radical&disable_animations=false)](https://github.com/Bakhteev)
+
 
