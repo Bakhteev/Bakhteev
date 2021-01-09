@@ -7,7 +7,6 @@ I'm FrontEnd developer From Saint Petersburg
 <br>
 
 **About me:**
-- 🔭 I’m currently working on something interesting
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about aniything you whant, <br>
   I'm always ready to answer your questions
