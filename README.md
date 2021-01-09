@@ -8,7 +8,7 @@ I'm FrontEnd developer From Saint Petersburg
 
 **About me:**
 - 🌱 I’m currently learning ReactJS
-- 💬 Ask me about aniything you whant, <br>
+- 💬 Ask me about aniything you want, <br>
   I'm always ready to answer your questions
 - 📫 How to reach me:
 - 📥 Telegram: [@BogdanB](https://t.me/Bogdan_Bakhteev)
