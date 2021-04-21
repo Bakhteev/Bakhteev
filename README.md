@@ -13,7 +13,7 @@ I'm FrontEnd developer From Saint Petersburg
 - 📫 How to reach me:
 - 📥 Telegram: [@BogdanB](https://t.me/Bogdan_Bakhteev)
 - ✉️ Gmail: bakhteevb@gmail.com
-- 📄 [Resume](https://drive.google.com/file/d/1vP1F8P6WTv8NDLb2wi-PvZ0-WBczSgA6/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/15wP_UR3pnJ0VNBwEyZSt_eGEf27pZMIj/view?usp=sharing)
 - ⚡ Fun fact: Grappler immersed in programming 💪
 
 **Languages and Tools:**  
