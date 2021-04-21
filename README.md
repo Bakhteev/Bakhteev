@@ -6,7 +6,7 @@ I'm FrontEnd developer
 
 <br>
 
-- 📫 How to reach me:
+**📫 How to reach me:**
 - 📥 Telegram: [@BogdanB](https://t.me/Bogdan_Bakhteev)
 - ✉️ Gmail: bakhteevb@gmail.com
 - 📄 [Resume](https://drive.google.com/file/d/15wP_UR3pnJ0VNBwEyZSt_eGEf27pZMIj/view?usp=sharing)
@@ -15,6 +15,7 @@ I'm FrontEnd developer
 - TypeScript
 - Backend (NodeJs (Express, NestJs))
 - PERN, MERN
+- GraphQl
 - React Native
 - Vue
 
@@ -24,9 +25,9 @@ I'm FrontEnd developer
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5JrZs7egEq8hA4CrEMvJgdNywa8k-ShYMlLKwo-UOTmFyvRos47JoE40LAQNdg6tuq5Q&usqp=CAU"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/d3v0ps/angular-nest-starter/master/apps/app/src/assets/shield.png"></code>
+<code><img height="20" src="https://rhttps://iconape.com/wp-content/files/xh/64746/svg/graphql.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 📈 **My GitHub Stats:**
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Bakhteev&show_icons=true&hide_border=true&theme=radical&disable_animations=false">](https://github.com/Bakhteev)
