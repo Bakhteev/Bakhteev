@@ -21,6 +21,7 @@ I'm FrontEnd developer
 - Vue
 - Java
 - SOLID
+- Python
 
 **Languages and Tools:**  
 
