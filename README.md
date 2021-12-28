@@ -13,12 +13,14 @@ I'm FrontEnd developer
 
 **I'm currenly learning:**
 
-- TypeScript
 - Backend (NodeJs (Express, NestJs))
-- PERN, MERN
 - GraphQl
 - React Native
+- NextJS
+- ThreeJS
 - Vue
+- Java
+- SOLID
 
 **Languages and Tools:**  
 
