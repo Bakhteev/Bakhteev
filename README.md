@@ -1,27 +1,40 @@
 ### Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm FrontEnd developer
+I'm FullSatck developer 
 
-<img align="right" alt="GIF" src="https://cs8.pikabu.ru/post_img/2016/04/09/9/1460216158134289433.gif"  height="400" />
+<img align="right" alt="GIF" style="float: top" src="https://cs8.pikabu.ru/post_img/2016/04/09/9/1460216158134289433.gif"  height="400" /> 
 
 <br>
 
+**Backend**
+ - NodeJs
+ - Express/NestJs
+ - SQL/NoSQL
+
+**Frontend**
+ - React
+ - Redux/MobX
+ - Vue a little
+
+**Common**
+ - JS/TS
+ - Webpack/Vite
+ - Git
+ - OOP
+ - SOLID
+ 
 **📫 How to reach me:**
 - 📥 Telegram: [@BogdanB](https://t.me/Bogdan_Bakhteev)
 - ✉️ Gmail: bakhteevb@gmail.com
 - 📄 [Resume](https://drive.google.com/file/d/15wP_UR3pnJ0VNBwEyZSt_eGEf27pZMIj/view?usp=sharing)
 
 **I'm currenly learning:**
-
-- Backend (NodeJs (Express, NestJs))
-- GraphQl
 - React Native
 - NextJS
 - ThreeJS
-- Vue
 - Java
-- SOLID
-- Python
+- Kotlin
+- Spring
 
 **Languages and Tools:**  
 
@@ -37,7 +50,11 @@ I'm FrontEnd developer
 
 📈 **My GitHub Stats:**
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Bakhteev&show_icons=true&hide_border=true&theme=radical&disable_animations=false">](https://github.com/Bakhteev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhteev&hide_border=true&theme=radical&disable_animations=false)](https://github.com/Bakhteev)
+<div align="center">
+
+  [<img align="top" src="https://github-readme-stats.vercel.app/api?username=Bakhteev&show_icons=true&hide_border=true&theme=radical&disable_animations=false"/>](https://github.com/Bakhteev)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhteev&hide_border=true&theme=radical&disable_animations=false"/>](https://github.com/Bakhteev)
+
+</div>
 
 
