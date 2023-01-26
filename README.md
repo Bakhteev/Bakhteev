@@ -26,7 +26,7 @@ I'm FullStack developer
 **📫 How to reach me:**
 - 📥 Telegram: [@BogdanB](https://t.me/Bogdan_Bakhteev)
 - ✉️ Gmail: bakhteevb@gmail.com
-- 📄 [Resume](https://drive.google.com/file/d/15wP_UR3pnJ0VNBwEyZSt_eGEf27pZMIj/view?usp=sharing)
+<!-- - 📄 [Resume](https://drive.google.com/file/d/15wP_UR3pnJ0VNBwEyZSt_eGEf27pZMIj/view?usp=sharing) -->
 
 **I'm currenly learning:**
 - React Native
