@@ -1,6 +1,6 @@
 ### Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm FullSatck developer 
+I'm FullStack developer 
 
 <img align="right" alt="GIF" style="float: top" src="https://cs8.pikabu.ru/post_img/2016/04/09/9/1460216158134289433.gif"  height="400" /> 
 
