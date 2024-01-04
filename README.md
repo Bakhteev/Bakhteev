@@ -24,7 +24,7 @@ I'm FullStack developer
  - SOLID
  
 **📫 How to reach me:**
-- 📥 Telegram: [@BogdanB](https://t.me/Bogdan_Bakhteev)
+- 📥 Telegram: [@marokt0](https://t.me/marokt0)
 - ✉️ Gmail: bakhteevb@gmail.com
 <!-- - 📄 [Resume](https://drive.google.com/file/d/15wP_UR3pnJ0VNBwEyZSt_eGEf27pZMIj/view?usp=sharing) -->
 
