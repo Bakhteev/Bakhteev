@@ -8,32 +8,34 @@ I'm FullStack developer
 
 **Backend**
  - NodeJs
- - Express/NestJs
+ - Express/NestJs/Fastify/Koa/Hapi
+ - Typeorm/Prisma/Sequlize
  - SQL/NoSQL
+ - RabbitMQ/BullMq
 
 **Frontend**
- - React
- - Redux/MobX
- - Vue a little
+ - React/Next
+ - Redux/MobX/Zustand
+ - Vue
 
 **Common**
- - JS/TS
+ - JavaScript/TypeScript
  - Webpack/Vite
  - Git
  - OOP
  - SOLID
- 
+ - Microservices
+
 **📫 How to reach me:**
 - 📥 Telegram: [@marokt0](https://t.me/marokt0)
 - ✉️ Gmail: bakhteevb@gmail.com
-<!-- - 📄 [Resume](https://drive.google.com/file/d/15wP_UR3pnJ0VNBwEyZSt_eGEf27pZMIj/view?usp=sharing) -->
 
 **I'm currenly learning:**
 - React Native
-- NextJS
 - ThreeJS
 - Java
 - Kotlin
+- Go
 - Spring
 
 **Languages and Tools:**  
